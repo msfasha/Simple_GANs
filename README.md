@@ -6,5 +6,5 @@ A simple implementation of GANs:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colab.r
 
 Curated based on: [https://github.com/hklchung/GAN-GenerativeAdversarialNetwork](https://github.com/hklchung/GAN-GenerativeAdversarialNetwork/tree/master/DCGAN)
 
-Dataset used: [The aloevera folder from the following Kaggle dataset](https://www.kaggle.com/datasets/yudhaislamisulistya/plants-type-datasets)
+Dataset used: [The aloevera folder from the Plants Type Datasets on Kaggle](https://www.kaggle.com/datasets/yudhaislamisulistya/plants-type-datasets)
 
